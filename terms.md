@@ -1,4 +1,5 @@
 📌 Ağ Bağlantıları ve İletişim Protokolleri
+
 Seed Node: Yeni düğümlerin ağa katılmasına yardımcı olan ve mevcut düğümlerin bağlantılarını listeleyen bir node.
 Peer: Bir node’un bağlantı kurduğu diğer düğümler.
 P2P (Peer-to-Peer) Network: Merkezi bir sunucuya ihtiyaç duymadan node’ların birbirine doğrudan bağlanarak iletişim kurduğu ağ yapısı.
